@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# LivePoll 프로젝트에서 추가한 항목
+#   SQLite 데이터베이스 파일 (개인 PC에만 있어야 하고 깃에 올리면 안 됨)
+*.db
+*.db-journal
